@@ -1,0 +1,11 @@
+D:\ToolStrip\ToolStrip\bin\Debug\ToolStrip.exe.config
+D:\ToolStrip\ToolStrip\bin\Debug\ToolStrip.exe
+D:\ToolStrip\ToolStrip\bin\Debug\ToolStrip.pdb
+D:\ToolStrip\ToolStrip\obj\Debug\ToolStrip.csproj.AssemblyReference.cache
+D:\ToolStrip\ToolStrip\obj\Debug\ToolStrip.csproj.SuggestedBindingRedirects.cache
+D:\ToolStrip\ToolStrip\obj\Debug\ToolStrip.Form1.resources
+D:\ToolStrip\ToolStrip\obj\Debug\ToolStrip.Properties.Resources.resources
+D:\ToolStrip\ToolStrip\obj\Debug\ToolStrip.csproj.GenerateResource.cache
+D:\ToolStrip\ToolStrip\obj\Debug\ToolStrip.csproj.CoreCompileInputs.cache
+D:\ToolStrip\ToolStrip\obj\Debug\ToolStrip.exe
+D:\ToolStrip\ToolStrip\obj\Debug\ToolStrip.pdb
